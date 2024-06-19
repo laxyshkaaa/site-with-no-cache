@@ -5,6 +5,6 @@
     if (pageContent != null) {
         out.println(pageContent);
     } else {
-        out.println("<p>No content .</p>");
+        out.println("<p>No content yet .</p>");
     }
 %>
