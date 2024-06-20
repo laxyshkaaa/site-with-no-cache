@@ -7,4 +7,5 @@
     } else {
         out.println("<p>No content yet .</p>");
     }
-%>
+%>  
+Lorem ipsum dolor sit amet.
